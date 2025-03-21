@@ -5,8 +5,9 @@
   ![Banner](https://img.shields.io/badge/-%F0%9F%8E%AE%20GAME%20DEVELOPER%20%7C%20%F0%9F%92%BB%20BACKEND%20ENGINEER%20%7C%20%F0%9F%93%9A%20TECH%20ENTHUSIAST-black?style=for-the-badge)
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=safari&logoColor=white)](https://scott.vercel.app/)
+  [![Takina Space](https://img.shields.io/badge/Takina%20Space-Visit-D14836?style=for-the-badge&logo=safari&logoColor=white)](https://takinaspace.jp)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/scott0/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayashi.asuka@takinaspace.jp)
+  [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayashi.asuka@takinaspace.jp)
 
 </div>
 
