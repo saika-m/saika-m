@@ -42,6 +42,7 @@ I'm a dedicated game developer with a passion for crafting engaging and performa
 
 | Project Name | Description | Tech Stack | Links |
 |:------------:|:-----------:|:----------:|:-----:|
+| **Saika-Lang** | Custom Programming language leveraging Chinese syntax using the Go compiler | Go | [Repo](https://github.com/saika-m/saika-lang-basic) |
 | **ScheduleDB** | A scheduling service with database integration for task management | Go, PostgreSQL | [Repo](https://github.com/saika-m/scheduledb) |
 | **GoLoad** | A load testing tool for simulating high-traffic scenarios | Go | [Repo](https://github.com/saika-m/goload) |
 | **Lockstep Test** | A Unity-based implementation for deterministic multiplayer simulations | Unity, C# | [Repo](https://github.com/saika-m/lockstep-test) |
