@@ -6,7 +6,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=safari&logoColor=white)](https://scott.vercel.app/)
   [![Takina Space](https://img.shields.io/badge/Takina%20Space-Visit-D14836?style=for-the-badge&logo=safari&logoColor=white)](https://takinaspace.jp)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/scott0/)
+  [![Resume](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://scott.vercel.app/Scott_Resume.pdf)
   [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayashi.asuka@takinaspace.jp)
 
 </div>
