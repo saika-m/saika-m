@@ -19,6 +19,8 @@ I'm a dedicated game developer with a passion for crafting engaging and performa
 
 ---
 
+
+
 ## 🚀 Skills & Technologies
 
 <div align="center">
@@ -68,6 +70,42 @@ I'm a dedicated game developer with a passion for crafting engaging and performa
 
 ---
 
+## ✨ Support My Work
+
+If you find my projects helpful, please consider a donation. Every little bit helps me to continue creating and maintaining open-source tools. Thank you for your support!
+
+<details>
+  <summary><strong>EVM Networks (ETH, BNB, AVAX, POL, FTM, ARB, base, CRO, OP, etc.)</strong></summary>
+  
+  `0x6Da4c1a21C8366a14c61AE0637400a453A8FBEc8`
+</details>
+
+<details>
+  <summary><strong>Bitcoin & UTXO Chains</strong></summary>
+  
+  - **BTC:** `bc1qnesgcj7v86tr3at42582lt88sn7jcsk3xq05kf`
+  - **LTC:** `LXaRCR2kmbLvtFFcigpaJSHZ2tS15cpfAn`
+  - **DOGE:** `DD8JSj27kRQUBYzm5WaCdRbUwmMP2ftd1e`
+  - **BCH:** `qp8nu7yq6x2krmh66qzfrsdrypsltstqrystus6l75`
+</details>
+
+<details>
+  <summary><strong>Other Networks</strong></summary>
+  
+  - **SOL:** `G8LWrAZq9mDxMpBnAcFCnCDCZeV3wupEmh87e1Y3PfYg`
+  - **TRX:** `TXSkSvT1u2MkwD1fDmTA8Bau2rRAFGy4Np`
+  - **XRP:** `rL9KowMVtvQgS6Btf6T2nCsDFLwgjXWMw`
+  - **ADA:** `addr1qx8e6sevvkenmf00wqvq4z4pn2g7ucgm2pzh0tmkp83av7u0n4pjcedn8kj77uqcp292rx53aes3k5z9w7hhvz0r6eash8arfl`
+  - **DOT:** `14ApB98Gh9zmMkpuXwWgaYLKjgSJ2zB24c3mbP9xXzRjuky6`
+  - **ATOM:** `cosmos1y8fyxszl6utfuykssul4nlycudpfktmutasup8`
+  - **INJ:** `inj1dkjvrgsusdn2znrp4crrwsq2g5agl0kguwasl2`
+  - **XLM:** `GAZGLIGRW22QANZWPJVZ7ZOUQTDLMUM3EEYDFEBO7ZGLBKVYNO4AT5FU`
+  - **HBAR:** `0.0.9606882`
+  - **VET:** `0x4EC6f92cE2cC24582d40ae7eAdCFD48BA24950ca`
+  - **ALGO:** `4QO2ZBJGZ6GXDA6ZEJWAJFUTY5LJ6WPUYB35HBYPHEBHZEFJE2P57ELBDU`
+  - **ETC:** `0xdB95F5F16D5Dea3aE76Df482E8D03698F067DDE2`
+</details>
+
 <div align="center">
   
   ### 💭 *"Tech Otaku Saves The World !"* - miHoYo
@@ -75,29 +113,3 @@ I'm a dedicated game developer with a passion for crafting engaging and performa
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaika-m&label=Visitors&countColor=%23263759)
   
 </div>
-
-
-
-## Support My Work
-
-If you find my projects helpful, please consider a donation. Every little bit helps me to continue creating and maintaining open-source tools. Thank you for your support!
-
-| Cryptocurrency | Address |
-|---|---|
-| **EVM (ETH, BNB, AVAX, etc.)** | `0x6Da4c1a21C8366a14c61AE0637400a453A8FBEc8` |
-| **Bitcoin (BTC)** | `bc1qnesgcj7v86tr3at42582lt88sn7jcsk3xq05kf` |
-| **Solana (SOL)** | `G8LWrAZq9mDxMpBnAcFCnCDCZeV3wupEmh87e1Y3PfYg` |
-| **Tron (TRX)** | `TXSkSvT1u2MkwD1fDmTA8Bau2rRAFGy4Np` |
-| **Ripple (XRP)** | `rL9KowMVtvQgS6Btf6T2nCsDFLwgjXWMw` |
-| **Cardano (ADA)** | `addr1qx8e6sevvkenmf00wqvq4z4pn2g7ucgm2pzh0tmkp83av7u0n4pjcedn8kj77uqcp292rx53aes3k5z9w7hhvz0r6eash8arfl` |
-| **Dogecoin (DOGE)** | `DD8JSj27kRQUBYzm5WaCdRbUwmMP2ftd1e` |
-| **Litecoin (LTC)** | `LXaRCR2kmbLvtFFcigpaJSHZ2tS15cpfAn` |
-| **Bitcoin Cash (BCH)** | `qp8nu7yq6x2krmh66qzfrsdrypsltstqrystus6l75` |
-| **Polkadot (DOT)** | `14ApB98Gh9zmMkpuXwWgaYLKjgSJ2zB24c3mbP9xXzRjuky6` |
-| **Cosmos (ATOM)** | `cosmos1y8fyxszl6utfuykssul4nlycudpfktmutasup8` |
-| **Injective (INJ)** | `inj1dkjvrgsusdn2znrp4crrwsq2g5agl0kguwasl2` |
-| **Stellar (XLM)** | `GAZGLIGRW22QANZWPJVZ7ZOUQTDLMUM3EEYDFEBO7ZGLBKVYNO4AT5FU` |
-| **Hedera (HBAR)** | `0.0.9606882` |
-| **VeChain (VET)** | `0x4EC6f92cE2cC24582d40ae7eAdCFD48BA24950ca` |
-| **Algorand (ALGO)** | `4QO2ZBJGZ6GXDA6ZEJWAJFUTY5LJ6WPUYB35HBYPHEBHZEFJE2P57ELBDU` |
-| **Ethereum Classic (ETC)** | `0xdB95F5F16D5Dea3aE76Df482E8D03698F067DDE2` |
